@@ -1,7 +1,7 @@
-Welcome to File Metadat Microservice
+Welcome to File Metadata Microservice
 =========================
 
-This is the fifthof FCC API projects
+This is the fifth of FCC API projects
 
 Find out more [File Metadata Microservice](https://www.freecodecamp.com/challenges/file-metadata-microservice).
 
